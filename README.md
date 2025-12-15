@@ -1,4 +1,4 @@
-## About Me👋
+## 👋 Hey there! I'm Janani
 
 Data enthusiast with hands-on experience in SQL, Python, data cleaning, and exploratory analysis. I enjoy working with structured datasets, uncovering patterns, and translating business problems into data-driven insights. Currently building real-world analytics projects to strengthen my SQL, Python, and reporting skills.
 
