@@ -11,4 +11,4 @@ Data enthusiast with hands-on experience in SQL, Python, data cleaning, and expl
 ## Contact Me
 If you'd like to connect or collaborate, feel free to reach out:
 
-💌 Email: [jananibharathik@gmail.com](mailto:jananibharathi18@gmail.com)
+💌 Email: [jananibharathi18@gmail.com](mailto:jananibharathi18@gmail.com)
